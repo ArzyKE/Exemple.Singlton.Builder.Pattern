@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exemple.Singlton.Builder.Pattern</string>
+    <string name="builder_and_singleton">Builder and singleton</string>
+</resources>
